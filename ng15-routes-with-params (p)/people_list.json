@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Annie Smith",
+        "age": 21,
+        "category": "Student"
+    },
+    {
+        "id": 2,
+        "name": "Jack Johnson",
+        "age": 30,
+        "category": "Teacher"
+    },
+    {
+        "id": 3,
+        "name": "Zelda McDonald",
+        "age": 90,
+        "category": "Teacher"
+    },
+    {
+        "id": 4,
+        "name": "Sam Teal",
+        "age": 55,
+        "category": "Student"
+    }
+]

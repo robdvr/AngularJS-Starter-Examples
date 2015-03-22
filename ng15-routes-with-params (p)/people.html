@@ -1,0 +1,14 @@
+People
+
+<table class="table">
+  <tr ng-repeat="person in people">
+    <td>{{ person.id }}</td>
+    <td>
+      <a href ng-href="#/person/{{person.id}}">
+        {{ person.name }}
+      </a>
+    </td>
+    <td>{{ person.category }}</td>
+    <td>{{ person.age}}</td>
+  </tr>
+</table>
